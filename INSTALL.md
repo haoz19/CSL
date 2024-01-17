@@ -27,8 +27,8 @@ TORCH_CUDA_ARCH_LIST='8.0' FORCE_CUDA=1 python setup.py build install
 
 ### Example conda environment setup
 ```bash
-conda create --name mask2former python=3.8 -y
-conda activate mask2former
+conda create --name csl python=3.8 -y
+conda activate csl
 conda install pytorch==1.9.0 torchvision==0.10.0 cudatoolkit=11.1 -c pytorch -c nvidia
 pip install -U opencv-python
 
@@ -40,7 +40,7 @@ pip install git+https://github.com/cocodataset/panopticapi.git
 pip install git+https://github.com/mcordts/cityscapesScripts.git
 
 cd ..
-git clone git@github.com:facebookresearch/Mask2Former.git
+git clone https://github.com/haoz19/CSL.git
 cd Mask2Former
 pip install -r requirements.txt
 cd mask2former/modeling/pixel_decoder/ops
