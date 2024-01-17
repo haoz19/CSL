@@ -55,4 +55,4 @@ If you find the code useful, please also consider the following BibTeX entry.
 
 ## Acknowledgement
 
-Code is largely based on MaskFormer (https://github.com/facebookresearch/MaskFormer).
+Code is largely based on MaskFormer (https://github.com/facebookresearch/MaskFormer) and Mask2Former (https://github.com/facebookresearch/Mask2Former).
