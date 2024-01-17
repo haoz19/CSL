@@ -41,7 +41,7 @@ pip install git+https://github.com/mcordts/cityscapesScripts.git
 
 cd ..
 git clone https://github.com/haoz19/CSL.git
-cd Mask2Former
+cd CSL
 pip install -r requirements.txt
 cd mask2former/modeling/pixel_decoder/ops
 sh make.sh
