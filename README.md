@@ -2,7 +2,7 @@
 
 [Hao Zhang](https://haoz19.github.io/), Fang Li, [Lu Qi](http://luqi.info/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), [Narendra Ahuja](https://ece.illinois.edu/about/directory/faculty/n-ahuja)
 
-[[`arXiv`](https://arxiv.org/abs/2312.05538)] 
+[[`arXiv`](https://arxiv.org/abs/2312.05538) [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/28535)] 
 
 <div align="center">
   <img src="https://haoz19.github.io/images/csl.png" width="100%" height="100%"/>
@@ -26,8 +26,6 @@ See [Preparing Datasets for CSL](datasets/README.md).
 
 See [Getting Started with CSL](GETTING_STARTED.md).
 
-
-## Model Zoo
 
 
 ## License
